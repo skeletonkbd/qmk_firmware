@@ -1,6 +1,6 @@
 {
 	"manufacturer": "skeletonkbd",
-	"keyboard_name": "skeleton68",
+	"keyboard_name": "Skeleton68",
 	"maintainer": "skeletonkbd",
 	"bootloader": "atmel-dfu",
 	"diode_direction": "COL2ROW",
@@ -48,7 +48,7 @@
 		"saturation_steps": 8,
 		"brightness_steps": 8,
 		"sleep": true,
-		"max_brightness": 100,
+		"max_brightness": 110,
 		"animations": {
 			"all": true
 		}
