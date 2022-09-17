@@ -1,6 +1,6 @@
-# skeletonkbd/skeleton68
+# skeletonkbd/skeleton68_underglow
 
-![skeletonkbd/skeleton68](imgur.com image replace me!)
+![skeletonkbd/skeleton68_underglow](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
@@ -10,11 +10,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make skeletonkbd/skeleton68:default
+    make skeletonkbd/skeleton68_underglow:default
 
 Flashing example for this keyboard:
 
-    make skeletonkbd/skeleton68:default:flash
+    make skeletonkbd/skeleton68_underglow:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
