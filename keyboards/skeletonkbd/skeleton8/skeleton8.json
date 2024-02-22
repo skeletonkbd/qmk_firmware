@@ -1,0 +1,23 @@
+{
+  "name": "skeleton8",
+  "vendorId": "0x1209",
+  "productId": "0xA008",
+  "menus": ["qmk_backlight"],
+  "matrix": {"rows": 2, "cols": 4},
+  "layouts": {
+    "keymap": [
+        [
+            "0,0",
+            "0,1",
+            "0,2",
+            "0,3"
+        ],
+        [
+            "1,0",
+            "1,1",
+            "1,2",
+            "1,3"
+        ]
+    ]
+  }
+}
